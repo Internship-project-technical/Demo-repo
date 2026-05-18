@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1" label="windsurf" max_length="40" name="x_1744008_demo_windsurf" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Status" max_length="100" name="u_status" type="string"/>
+        <element label="Description" max_length="255" name="u_description" type="string"/>
+    </element>
+</database>
